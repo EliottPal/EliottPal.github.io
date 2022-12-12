@@ -40,6 +40,7 @@
                 </div>
                 <div class="timeline-body">
                   <div class="text-muted">{{ event.desc | markdownify }}</div>
+                  <div>{{ event.languages | markdownify }}</div>
                 </div>
               </div>
             </li>
@@ -92,9 +93,11 @@
             <div class="timeline-image">
               <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
             </div>
+            <!-- EVENT -->
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h4>{{ event.year | markdownify }}</h4>
+                <h4><b>{{ event.year | markdownify }}</b></h4>
+                <h4 class="subheading">{{ event.category }}</h4>
                 <h4 class="subheading">{{ event.title }}</h4>
               </div>
               <div class="timeline-body">

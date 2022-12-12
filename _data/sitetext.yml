@@ -29,44 +29,56 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "<b>Studies:</b> Started studying at <i>Epitech Rennes</i>"
+      - title: "Started studying at <i>Epitech Rennes</i>"
+        category: "Studies:"
         year: "2018"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Realization of numerous projects in various fields: graphic programming, mathematics, system programming, web/mobile development, algorithmic... "
+        languages: "Languages used (non exhaustive): C, C++, Javascript, Python"
         image: assets/img/timeline/1.jpg
         alt:
 
-      - title: "<b>Internship:</b> Front-End developer(fulltime) - <i>Leeve</i>"
+      - title: "Front-End developer(fulltime) - <i>Leeve</i>"
+        category: "Internship:"
         year: "September-December 2019"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Internship as a front-end developer at Leeve, a start-up based in Rennes developing a mobile application based on languages and relationships."
+        languages: "Languages used: Angular, Typescript"
         image: assets/img/timeline/2.jpg
         alt:
 
-      - title: "<b>Internship:</b> Fullstack developer (fulltime) - <i>Linaïa</i> "
+      - title: "Fullstack developer (fulltime) - <i>Linaïa</i> "
+        category: "Internship:"
         year: "April-July 2021"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Internship as a fullstack developer in the Linaïa agency, working on the MyFamiliz project, a mobile application aimed at families, helping them having a better organization.."
+        languages: "Languages used: React Native (expo), Javascript, MongoDb"
         image: assets/img/timeline/3.jpg
         alt: image alt text
 
-      - title: "<b>Job: Teaching assistant (fulltime) - <i>Epitech Rennes</i></b>"
+      - title: "Teaching assistant (fulltime) - <i>Epitech Rennes</i></b>"
+        category: "Job:"
         year: "September 2021 - July 2022"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "In charge of several projects on 3 different promotions.<br />Organization and animation of many activities: kick-offs, project follow-ups, code and project reviews, evaluations, keynotes.<br />Assistance and advices to answer questions about code or the school."
+        languages: "Languages taught: C, Javascript"
         image: assets/img/timeline/4.jpg
         alt:
 
-      - title: "<b>Studies:</b> Started studying at <i>Royal Melbourne Institute of Technology</i>"
+      - title: "Started studying at <i>Royal Melbourne Institute of Technology</i>"
+        category: "Studies:"
         year: "2022"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Study abroad student in Computer Science."
+        languages: "Languages used: Javascript, Php, MySQL"
         image: assets/img/timeline/4.jpg
         alt:
 
-      - title: "<b>Job:</b> Web developer (fulltime) - <i>Avon Research</i>"
+      - title: "Web developer (fulltime) - <i>Avon Research</i>"
+        category: "Job:"
         year: "November 2022-Present"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Working on a mobile application for jewellery built using Shopify."
+        languages: "Languages used: ReactJs"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "What's next?"
+    end: "<br/>What's next?"
 
   about:
     title: "About Me"
