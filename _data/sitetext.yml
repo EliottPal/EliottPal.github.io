@@ -34,7 +34,7 @@ en: &DEFAULT_EN
         year: "2018"
         desc: "Realization of numerous projects in various fields: graphic programming, mathematics, system programming, web/mobile development, algorithmic... "
         languages: "Languages used (non exhaustive): C, C++, Javascript, Python"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.jpeg
         alt:
 
       - title: "Front-End developer (fulltime) - <i>Leeve</i>"
@@ -42,7 +42,7 @@ en: &DEFAULT_EN
         year: "September-December 2019"
         desc: "Internship as a front-end developer at Leeve, a start-up based in Rennes developing a mobile application based on languages and relationships."
         languages: "Languages used: Angular, Typescript"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.png
         alt:
 
       - title: "Fullstack developer (fulltime) - <i>Linaïa</i> "
@@ -50,7 +50,7 @@ en: &DEFAULT_EN
         year: "April-July 2021"
         desc: "Internship as a fullstack developer in the Linaïa agency, working on the MyFamiliz project, a mobile application aimed at families, helping them having a better organization.."
         languages: "Languages used: React Native (expo), Javascript, MongoDb"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.jpeg
         alt: image alt text
 
       - title: "Teaching assistant (fulltime) - <i>Epitech Rennes</i></b>"
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         year: "September 2021 - July 2022"
         desc: "In charge of several projects on 3 different promotions.<br />Organization and animation of many activities: kick-offs, project follow-ups, code and project reviews, evaluations, keynotes.<br />Assistance and advices to answer questions about code or the school."
         languages: "Languages taught: C, Javascript"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/1.jpeg
         alt:
 
       - title: "Started studying at <i>Royal Melbourne Institute of Technology</i>"
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         year: "2022"
         desc: "Study abroad student in Computer Science."
         languages: "Languages used: Javascript, Php, MySQL"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.png
         alt:
 
       - title: "Web developer (fulltime) - <i>Avon Research</i>"
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
         year: "November 2022-Present"
         desc: "Working on a mobile application for jewellery built using Shopify."
         languages: "Languages used: ReactJs"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/5.jpg
         alt:
         # you can enforce the alignment
         align: right
