@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: See more
     buttonlink: "#about"
 
+  about:
+    title: "About Me"
+    text: "-"
+    body: "Hi welcome to my website!<br/>I'm 22, I'm a 🇫🇷 student at Epitech Rennes since 2018, currently learning web and mobile development.<br/>I love learning new things and my goal is to be a fullstack developer and to work on many web & mobile projects<br/> Apart from that, my other passions include art (especially cinema and music) and travelling."
+    section: about
+
   portfolio:
     title: "Portfolio"
     text: "Here you can find some projects I made for school or on my own to learn stuff"
@@ -26,8 +32,6 @@ en: &DEFAULT_EN
     title: "Experience"
     text: "My timeline since I started programming."
     section: timeline
-    # left is the default
-    #start_align: "left"
     events:
       - title: "Started studying at <i>Epitech Rennes</i>"
         category: "Studies:"
@@ -76,15 +80,8 @@ en: &DEFAULT_EN
         languages: "Languages used: ReactJs"
         image: assets/img/timeline/5.jpg
         alt:
-        # you can enforce the alignment
         align: right
     end: "<br/>What's next?"
-
-  about:
-    title: "About Me"
-    text: "-"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   contact:
     title: "Contact me"
