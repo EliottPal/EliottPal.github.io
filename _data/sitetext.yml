@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/1.jpg
         alt:
 
-      - title: "Front-End developer(fulltime) - <i>Leeve</i>"
+      - title: "Front-End developer (fulltime) - <i>Leeve</i>"
         category: "Internship:"
         year: "September-December 2019"
         desc: "Internship as a front-end developer at Leeve, a start-up based in Rennes developing a mobile application based on languages and relationships."
