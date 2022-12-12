@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Web developer
-    text: Eliott Palueau
+    text: Ξliott Palueau
     button: See more
     buttonlink: "#about"
 
@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Here you can find some projects I made for school or on my own to learn stuff"
+    text: "Here you can find some projects I made for school or on my own to learn stuff."
     section: portfolio
     closebutton: "Close Project"
 
