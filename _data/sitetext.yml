@@ -18,13 +18,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Here you can find some projects I made for school or on my own to learn stuff"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Experience"
-    text: "My timeline since I started programming"
+    text: "My timeline since I started programming."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -59,7 +59,6 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
 
-
       - title: "<b>Job:</b> Web developer (fulltime) - <i>Avon Research</i>"
         year: "November 2022-Present"
         desc: "Your description here, **Markdown** is fully supported."
@@ -71,7 +70,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: "our story"
+    text: "-"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
