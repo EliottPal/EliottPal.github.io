@@ -44,16 +44,16 @@
   <div class="container">
     <div class="intro-text">
       {%- if site.data.sitetext[site.locale].header.text -%}
-      <div class="intro-heading text-uppercase">
+      <div class="intro-heading text-uppercase shadow-3">
         {{ site.data.sitetext[site.locale].header.text | markdownify }}
       </div>
       {%- endif -%} {%- if site.data.sitetext[site.locale].header.title -%}
-      <div class="intro-lead-in">
+      <div class="intro-lead-in shadow-3">
         {{ site.data.sitetext[site.locale].header.title | markdownify }}
       </div>
       {%- endif -%} {%- if site.data.sitetext[site.locale].header.button -%}
       <a
-        class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
+        class="btn btn-primary btn-xl text-uppercase js-scroll-trigger shadow-3"
         href="{{ site.data.sitetext[site.locale].header.buttonlink }}"
         >{{ site.data.sitetext[site.locale].header.button }}</a
       >
