@@ -9,12 +9,35 @@
         <h2 class="section-heading text-uppercase">
           {{ site.data.sitetext[site.locale].skills.title }}
         </h2>
+        <h3 class="section-subheading text-muted">
+          {{ site.data.sitetext[site.locale].skills.text | default: "timeline"}}
+        </h3>
       </div>
     </div>
-    <div class="row">
-      <!-- <div class="col-xl-12 mx-auto text-center">
-          <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
-        </div> -->
+
+    <div class="container">
+      <div class="row">
+        <!-- TECHNICAL SKILLS -->
+        <div class="col-md-6">
+          <ul>
+            <li>Skill 1</li>
+            <li>Skill 2</li>
+            <li>Skill 3</li>
+            <li>Skill 4</li>
+            <li>Skill 5</li>
+          </ul>
+        </div>
+        <!-- SOFT SKILLS -->
+        <div class="col-md-6">
+          <ul>
+            <li>Skill 1</li>
+            <li>Skill 2</li>
+            <li>Skill 3</li>
+            <li>Skill 4</li>
+            <li>Skill 5</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 </section>

@@ -84,6 +84,7 @@ en: &DEFAULT_EN
 
   skills:
     title: "Skills"
+    text: "Here is a non-exhaustive list of my core skills"
     subTitle1: "Technical skills"
     subTitle2: "Soft skills"
     section: skills
