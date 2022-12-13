@@ -88,20 +88,20 @@ en: &DEFAULT_EN
     subTitle1: "Technical skills"
     subTitle2: "Soft skills"
     technical:
-      - skill: "Front-End development"
-      - skill: "Git"
-      - skill: "Object oriented programming"
+      - title: "Front-End development"
+      - title: "Git"
+      - title: "Object oriented programming"
       - toImprove:
-          - skill: "Back-End development"
-          - skill: "Devops"
+          - title: "Back-End development"
+          - title: "Devops"
 
     soft:
-      - skill: "Organisation"
-      - skill: "Autonomy"
-      - skill: "Leadership"
+      - title: "Organisation"
+      - title: "Autonomy"
+      - title: "Leadership"
       - toImprove:
-          - skill: "Team work"
-          - skill: "Communication"
+          - title: "Team work"
+          - title: "Communication"
 
     section: skills
 

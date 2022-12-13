@@ -19,32 +19,34 @@
       <div class="row">
         <!-- TECHNICAL SKILLS -->
         <div class="col-md-6">
+          <h4>Core:</h4>
           <ul>
             {%- for skill in site.data.sitetext[site.locale].skills.technical
             -%}
-            <li>{skill}</li>
+            <li>{{skill.title}}</li>
             {% endfor %}
           </ul>
-          <h3>Want to improve:</h3>
+          <h4>Want to improve:</h4>
           <ul>
             {%- for skill in
             site.data.sitetext[site.locale].skills.technical.toImprove -%}
-            <li>{skill}</li>
+            <li>{{skill.title}}</li>
             {% endfor %}
           </ul>
         </div>
         <!-- SOFT SKILLS -->
         <div class="col-md-6">
+          <h4>Core:</h4>
           <ul>
             {%- for skill in site.data.sitetext[site.locale].skills.soft -%}
-            <li>{skill}</li>
+            <li>{{skill.title}}</li>
             {% endfor %}
           </ul>
-          <h3>Want to improve:</h3>
+          <h4>Want to improve:</h4>
           <ul>
             {%- for skill in
             site.data.sitetext[site.locale].skills.soft.toImprove -%}
-            <li>{skill}</li>
+            <li>{{skill.title}}</li>
             {% endfor %}
           </ul>
         </div>
