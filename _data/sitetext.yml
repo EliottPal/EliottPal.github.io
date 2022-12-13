@@ -84,9 +84,25 @@ en: &DEFAULT_EN
 
   skills:
     title: "Skills"
-    text: "Here is a non-exhaustive list of my core skills"
+    text: "Here is a non-exhaustive list of my core skills and some skills that I want to improve."
     subTitle1: "Technical skills"
     subTitle2: "Soft skills"
+    technical:
+      - skill: "Front-End development"
+      - skill: "Git"
+      - skill: "Object oriented programming"
+      - toImprove:
+          - skill: "Back-End development"
+          - skill: "Devops"
+
+    soft:
+      - skill: "Organisation"
+      - skill: "Autonomy"
+      - skill: "Leadership"
+      - toImprove:
+          - skill: "Team work"
+          - skill: "Communication"
+
     section: skills
 
   contact:

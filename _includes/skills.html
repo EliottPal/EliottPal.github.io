@@ -20,21 +20,32 @@
         <!-- TECHNICAL SKILLS -->
         <div class="col-md-6">
           <ul>
-            <li>Skill 1</li>
-            <li>Skill 2</li>
-            <li>Skill 3</li>
-            <li>Skill 4</li>
-            <li>Skill 5</li>
+            {%- for skill in site.data.sitetext[site.locale].skills.technical
+            -%}
+            <li>{skill}</li>
+            {% endfor %}
+          </ul>
+          <h3>Want to improve:</h3>
+          <ul>
+            {%- for skill in
+            site.data.sitetext[site.locale].skills.technical.toImprove -%}
+            <li>{skill}</li>
+            {% endfor %}
           </ul>
         </div>
         <!-- SOFT SKILLS -->
         <div class="col-md-6">
           <ul>
-            <li>Skill 1</li>
-            <li>Skill 2</li>
-            <li>Skill 3</li>
-            <li>Skill 4</li>
-            <li>Skill 5</li>
+            {%- for skill in site.data.sitetext[site.locale].skills.soft -%}
+            <li>{skill}</li>
+            {% endfor %}
+          </ul>
+          <h3>Want to improve:</h3>
+          <ul>
+            {%- for skill in
+            site.data.sitetext[site.locale].skills.soft.toImprove -%}
+            <li>{skill}</li>
+            {% endfor %}
           </ul>
         </div>
       </div>
