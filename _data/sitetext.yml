@@ -82,6 +82,12 @@ en: &DEFAULT_EN
         align: right
     end: "<br/>What's next?"
 
+  skills:
+    title: "Skills"
+    subTitle1: "Technical skills"
+    subTitle2: "Soft skills"
+    section: skills
+
   contact:
     title: "Contact me"
     text: "Want to contact me for a project? Feel free!"
