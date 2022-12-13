@@ -15,41 +15,36 @@
       </div>
     </div>
 
-    <div class="container">
-      <div class="row">
-        <!-- TECHNICAL SKILLS -->
-        <div class="col-md-6">
-          <h4>Core:</h4>
-          <ul>
-            {%- for skill in site.data.sitetext[site.locale].skills.technical
-            -%}
-            <li><h6>{{skill.title}}</h6></li>
-            {% endfor %}
-          </ul>
-          <h4>Want to improve:</h4>
-          <ul>
-            {%- for skill in site.data.sitetext[site.locale].skills.toImprove1
-            -%}
-            <li><h6>{{skill.title}}</h6></li>
-            {% endfor %}
-          </ul>
-        </div>
-        <!-- SOFT SKILLS -->
-        <div class="col-md-6">
-          <h4>Core:</h4>
-          <ul>
-            {%- for skill in site.data.sitetext[site.locale].skills.soft -%}
-            <li><h6>{{skill.title}}</h6></li>
-            {% endfor %}
-          </ul>
-          <h4>Want to improve:</h4>
-          <ul>
-            {%- for skill in site.data.sitetext[site.locale].skills.toImprove2
-            -%}
-            <li><h6>{{skill.title}}</h6></li>
-            {% endfor %}
-          </ul>
-        </div>
+    <div class="row">
+      <!-- TECHNICAL SKILLS -->
+      <div class="col-lg-6">
+        <h4>Core:</h4>
+        <ul>
+          {%- for skill in site.data.sitetext[site.locale].skills.technical -%}
+          <li><h6>{{skill.title}}</h6></li>
+          {% endfor %}
+        </ul>
+        <h4>Want to improve:</h4>
+        <ul>
+          {%- for skill in site.data.sitetext[site.locale].skills.toImprove1 -%}
+          <li><h6>{{skill.title}}</h6></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- SOFT SKILLS -->
+      <div class="col-lg-6">
+        <h4>Core:</h4>
+        <ul>
+          {%- for skill in site.data.sitetext[site.locale].skills.soft -%}
+          <li><h6>{{skill.title}}</h6></li>
+          {% endfor %}
+        </ul>
+        <h4>Want to improve:</h4>
+        <ul>
+          {%- for skill in site.data.sitetext[site.locale].skills.toImprove2 -%}
+          <li><h6>{{skill.title}}</h6></li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
   </div>
