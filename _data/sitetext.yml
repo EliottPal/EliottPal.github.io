@@ -91,17 +91,17 @@ en: &DEFAULT_EN
       - title: "Front-End development"
       - title: "Git"
       - title: "Object oriented programming"
-      - toImprove:
-          - title: "Back-End development"
-          - title: "Devops"
+    toImprove1:
+      - title: "Back-End development"
+      - title: "Devops"
 
     soft:
       - title: "Organisation"
       - title: "Autonomy"
       - title: "Leadership"
-      - toImprove:
-          - title: "Team work"
-          - title: "Communication"
+    toImprove2:
+      - title: "Team work"
+      - title: "Communication"
 
     section: skills
 

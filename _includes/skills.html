@@ -23,14 +23,14 @@
           <ul>
             {%- for skill in site.data.sitetext[site.locale].skills.technical
             -%}
-            <li>{{skill.title}}</li>
+            <li><h5>{{skill.title}}</h5></li>
             {% endfor %}
           </ul>
           <h4>Want to improve:</h4>
           <ul>
-            {%- for skill in
-            site.data.sitetext[site.locale].skills.technical.toImprove -%}
-            <li>{{skill.title}}</li>
+            {%- for skill in site.data.sitetext[site.locale].skills.toImprove1
+            -%}
+            <li><h5>{{skill.title}}</h5></li>
             {% endfor %}
           </ul>
         </div>
@@ -39,14 +39,14 @@
           <h4>Core:</h4>
           <ul>
             {%- for skill in site.data.sitetext[site.locale].skills.soft -%}
-            <li>{{skill.title}}</li>
+            <li><h5>{{skill.title}}</h5></li>
             {% endfor %}
           </ul>
           <h4>Want to improve:</h4>
           <ul>
-            {%- for skill in
-            site.data.sitetext[site.locale].skills.soft.toImprove -%}
-            <li>{{skill.title}}</li>
+            {%- for skill in site.data.sitetext[site.locale].skills.toImprove2
+            -%}
+            <li><h5>{{skill.title}}</h5></li>
             {% endfor %}
           </ul>
         </div>
