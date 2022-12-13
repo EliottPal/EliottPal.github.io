@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Timeline"
       section: timeline
+    - title: "Skills"
+      section: skills
     - title: "Contact"
       section: contact
 en-US:
