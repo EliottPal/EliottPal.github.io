@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    body: "Hi welcome to my website!<br/>I'm 22, I'm a 🇫🇷 student at Epitech Rennes since 2018, currently learning web and mobile development.<br/>I love learning new things and my goal is to be a fullstack developer and to work on many web & mobile projects<br/> Apart from that, my other passions include art (especially cinema and music) and travelling."
+    body: "Hi welcome to my website!<br/>I'm 22, I'm a 🇫🇷 student at Epitech Rennes since 2018, currently learning web and mobile development.<br/>I love learning new things and my goal is to be a fullstack developer and to work on many web & mobile projects.<br/> Apart from that, my other passions include art (especially cinema and music) and travelling."
     section: about
 
   portfolio:
