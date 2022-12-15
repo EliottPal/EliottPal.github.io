@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Web developer
     text: Ξliott Palueau
-    button: See more
+    button: Learn more
     buttonlink: "#about"
 
   about:
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
       - title: "👑 Leadership"
     toImprove2:
       - title: "👨‍👩‍👦‍👦 Team work"
-      - title: "🙋‍♂️ Communication"
+      - title: "🗣 Communication"
 
     section: skills
 
