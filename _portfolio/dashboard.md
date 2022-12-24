@@ -10,6 +10,8 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://place-hold.it/400x300
 ---
 
+{:.list-inline}
+
 Epitech project, 3rd year.  
 The **Dashboard** project consists in the creation of a web application.  
 This application is a customizable dashboard which integrates configurable widgets from different services.  
