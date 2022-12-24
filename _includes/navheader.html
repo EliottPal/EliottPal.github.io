@@ -33,10 +33,10 @@
           {%- endif -%}
         </li>
         {% endfor %} {% for link in site.data.sitetext.footer.social %}
-        <li class="list-inline-item">
+        <li class="nav-item">
           {% if link.url %}
-          <a href="{{ link.url }}">
-            {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+          <a class="nav-link js-scroll-trigger" href="{{ link.url }}">
+            <img class="{{link.icon}}"
           </a>
           {% endif %}
         </li>
