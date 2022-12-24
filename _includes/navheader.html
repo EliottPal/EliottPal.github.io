@@ -34,6 +34,20 @@
         </li>
         {% endfor %}
       </ul>
+      <!-- Social Media -->
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for link in site.data.sitetext.footer.social %}
+          <li class="list-inline-item">
+            {% if link.url %}
+            <a href="{{ link.url }}">
+              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
@@ -58,20 +72,6 @@
         >{{ site.data.sitetext[site.locale].header.button }}</a
       >
       {%- endif -%}
-      <!-- Social Media -->
-      <div class="col-md-4">
-        <ul class="list-inline social-buttons">
-          {% for link in site.data.sitetext.footer.social %}
-          <li class="list-inline-item">
-            {% if link.url %}
-            <a href="{{ link.url }}">
-              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-            </a>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
     </div>
   </div>
 </header>
