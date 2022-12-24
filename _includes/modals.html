@@ -27,23 +27,19 @@
                 alt="{{ project.alt }}"
               />
               <p>{{ project.content }}</p>
+              <a href="{{project.link}}" target="_blank">
+                <button class="btn btn-primary" type="button">
+                  <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                  Check project on Github
+                </button>
+              </a>
               <button
-                class="btn btn-primary"
-                onclick="location.href='{{project.link}}'"
-                type="button"
-              >
-                <i class="fa-solid fa-arrow-up-right-from-square"></i>
-                {{ site.data.sitetext[site.locale].portfolio.closebutton |
-                default: "Check project on Github" }}
-              </button>
-              <button
-                class="btn btn-primary"
+                class="btn btn-secondary"
                 data-dismiss="modal"
                 type="button"
               >
                 <i class="fas fa-times"></i>
-                {{ site.data.sitetext[site.locale].portfolio.closebutton |
-                default: "Close project" }}
+                Close project
               </button>
             </div>
           </div>

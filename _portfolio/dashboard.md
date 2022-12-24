@@ -3,6 +3,11 @@ title: Dashboard
 subtitle: Web dashboard fully customizable with widgets.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 link: https://github.com/EliottPal/Dashboard_2020
+
+caption: #what displays in the portfolio grid:
+  title: Dashboard
+  subtitle: Web dashboard fully customizable with widgets.
+  thumbnail: https://place-hold.it/400x300
 ---
 
 Epitech project, 3rd year.  
