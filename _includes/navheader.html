@@ -32,22 +32,16 @@
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}
         </li>
+        {% endfor %} {% for link in site.data.sitetext.footer.social %}
+        <li class="list-inline-item">
+          {% if link.url %}
+          <a href="{{ link.url }}">
+            {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+          </a>
+          {% endif %}
+        </li>
         {% endfor %}
       </ul>
-      <!-- Social Media -->
-      <div class="col-md-4">
-        <ul class="list-inline social-buttons">
-          {% for link in site.data.sitetext.footer.social %}
-          <li class="list-inline-item">
-            {% if link.url %}
-            <a href="{{ link.url }}">
-              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-            </a>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
     </div>
   </div>
 </nav>
