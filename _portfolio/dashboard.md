@@ -10,8 +10,6 @@ caption: #what displays in the portfolio grid:
   thumbnail: https://place-hold.it/400x300
 ---
 
-{:.list-inline}
-
 Epitech project, 3rd year.  
 The **Dashboard** project consists in the creation of a web application.  
 This application is a customizable dashboard which integrates configurable widgets from different services.  
@@ -22,9 +20,7 @@ The available services includes:
 - Weather
 - Money conversion
 
-{:.list-inline}
-
-- Date: November 2020
+- Date: November-December 2020
 - Category: Web Application
 - Languages: ReactJS, NodeJS, MongoDb
 - Developed by: [Eliott Palueau](https://github.com/EliottPal) & [Rodolphe Dupuis](https://github.com/rodolphedps)

@@ -19,8 +19,6 @@ The application is composed of multiple pages implementing different functionali
 - Browse page: see all the latest viral posts on Imgur, use the search bar to look for specific posts.
 - Favortites page: see all your favorites posts.
 
-{:.list-inline}
-
 - Date: October 2020
 - Category: Mobile Application
 - Languages: Kotlin
