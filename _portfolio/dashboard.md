@@ -9,7 +9,7 @@ caption: #what displays in the portfolio grid:
   subtitle: Web dashboard fully customizable with widgets.
   thumbnail: https://place-hold.it/400x300
 ---
-
+### Details: 
 Epitech project, 3rd year.  
 The **Dashboard** project consists in the creation of a web application.  
 This application is a customizable dashboard which integrates configurable widgets from different services.  
@@ -20,6 +20,7 @@ The available services includes:
 - Weather
 - Money conversion
 
+### Overview:
 - Date: November-December 2020
 - Category: Web Application
 - Languages: ReactJS, NodeJS, MongoDb
