@@ -29,12 +29,21 @@
               <p>{{ project.content }}</p>
               <button
                 class="btn btn-primary"
+                onclick="location.href='{{project.link}}'"
+                type="button"
+              >
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                {{ site.data.sitetext[site.locale].portfolio.closebutton |
+                default: "Check project on Github" }}
+              </button>
+              <button
+                class="btn btn-primary"
                 data-dismiss="modal"
                 type="button"
               >
                 <i class="fas fa-times"></i>
                 {{ site.data.sitetext[site.locale].portfolio.closebutton |
-                default: "Close Project" }}
+                default: "Close project" }}
               </button>
             </div>
           </div>

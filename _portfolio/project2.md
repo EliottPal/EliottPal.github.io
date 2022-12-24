@@ -1,19 +1,23 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Dashboard
+subtitle: Web dashboard fully customizable with widgets.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
-
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+link: https://github.com/EliottPal/Dashboard_2020
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Epitech project, 3rd year.  
+The **Dashboard** project consists in the creation of a web application.  
+This application is a customizable dashboard which integrates configurable widgets from different services.  
+The available services includes:
+- Youtube
+- Spotify
+- Github
+- Weather
+- Money conversion
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: November 2020
+- Category: Web Application
+- Languages: ReactJS, NodeJS, MongoDb
+- Developed by: [Eliott Palueau](https://github.com/EliottPal) & [Rodolphe Dupuis](https://github.com/rodolphedps)
