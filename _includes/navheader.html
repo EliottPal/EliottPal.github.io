@@ -32,7 +32,10 @@
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}
         </li>
-        {% endfor %} {% for link in site.data.sitetext.footer.social %}
+        {% endfor %}
+      </ul>
+      <ul class="navbar-nav text-uppercase ml-auto">
+        {% for link in site.data.sitetext.footer.social %}
         <li class="nav-item">
           {% if link.url %}
           <a class="nav-link js-scroll-trigger" href="{{ link.url }}">
