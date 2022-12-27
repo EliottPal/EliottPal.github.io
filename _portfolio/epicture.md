@@ -7,7 +7,7 @@ link: https://github.com/EliottPal/Epicture_2020
 caption: #what displays in the portfolio grid:
   title: Epicture
   subtitle: Mobile application implementing Imgur API.
-  thumbnail: ../../assets/img/portfolio/Epicture.png
+  thumbnail: ../../assets/img/portfolio/4.png
 ---
 ### Details: 
 Epitech project, 3rd year.  
