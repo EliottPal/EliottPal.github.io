@@ -1,12 +1,12 @@
 ---
-title: Personal website.
-subtitle: My website including projects portfolio.
+title: Personal website
+subtitle: The website you are looking at right now.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 link: https://github.com/EliottPal/easybin-hub
 
 caption: #what displays in the portfolio grid:
-  title: Personal website.
-  subtitle: My website including projects portfolio.
+  title: Personal website
+  subtitle: The website you are looking at right now.
   thumbnail: ../../assets/img/portfolio/2.png
 ---
 ### Details: 
