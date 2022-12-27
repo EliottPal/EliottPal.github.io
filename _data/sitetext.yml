@@ -119,9 +119,9 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-  section: footer
-  title: "Want more?"
-  subtitle: "You can also find me here:"
+    section: footer
+    title: "Want more?"
+    subtitle: "You can also find me here:"
     social:
       - url: https://www.linkedin.com/in/eliott-palueau/
         icon: "fab fa-linkedin-in"
