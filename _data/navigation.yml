@@ -21,6 +21,8 @@ en: &DEFAULT_EN
       section: skills
     - title: "Contact"
       section: contact
+    - title: "More"
+      section: footer
 en-US:
   <<: *DEFAULT_EN
 en-CA:
