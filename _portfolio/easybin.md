@@ -7,7 +7,7 @@ link: https://github.com/EliottPal/easybin-hub
 caption: #what displays in the portfolio grid:
   title: EasyBin
   subtitle: Mobile application implementing barcode scanner.
-  thumbnail: "../../assets/img/portfolio/Easybin.png"
+  thumbnail: ../../assets/img/portfolio/5.png
 ---
 ### Details: 
 Personal project.  
