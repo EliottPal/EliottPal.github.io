@@ -1,14 +1,8 @@
 // Styling for the footer
 section#footer {
-  background-color: $gray-800;
   padding: 25px 0;
+  height: 100px;
   text-align: center;
-  span.copyright {
-    font-size: 90%;
-    line-height: 40px;
-    text-transform: none;
-    @include heading-font;
-  }
   ul.quicklinks {
     font-size: 90%;
     line-height: 40px;
@@ -30,15 +24,14 @@ ul.social-buttons {
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
-      color: $gray-800;
+      color: white;
       border-radius: 100%;
       outline: none;
-      background-color: white;
+      background-color: $gray-800;
       &:active,
       &:focus,
       &:hover {
         background-color: $primary;
-        color: white;
       }
     }
   }
