@@ -7,7 +7,7 @@ link: https://github.com/EliottPal/easybin-hub
 caption: #what displays in the portfolio grid:
   title: Personal website.
   subtitle: My website including projects portfolio.
-  thumbnail: ../../assets/img/Website.png
+  thumbnail: ../../assets/img/portfolio/Website.png
 ---
 ### Details: 
 Personal project.  
