@@ -7,7 +7,7 @@ link: https://github.com/EliottPal/Dashboard_2020
 caption: #what displays in the portfolio grid:
   title: Dashboard
   subtitle: Web dashboard fully customizable with widgets.
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: ../../assets/img/Dashboard.png
 ---
 ### Details: 
 Epitech project, 3rd year.  

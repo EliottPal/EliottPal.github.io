@@ -7,7 +7,7 @@ link: https://github.com/EliottPal/Area
 caption: #what displays in the portfolio grid:
   title: Area
   subtitle: Software suite implementing Action -> Reaction features.
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: ../../assets/img/Area.png
 ---
 ### Details:  
 Epitech final project, 3rd year.  
