@@ -16,7 +16,7 @@ Deployment of the website using Github Pages.
 
 
 ### Overview:  
-- Date: December 2022
-- Category: Website
-- Languages: Html, Yaml, Gem
-- Developed by: [Eliott Palueau](https://github.com/EliottPal)
+&nbsp;&nbsp;&nbsp;&nbsp;Date: December 2022  
+&nbsp;&nbsp;&nbsp;&nbsp;Category: Website  
+&nbsp;&nbsp;&nbsp;&nbsp;Languages: Html, Yaml, Gem  
+&nbsp;&nbsp;&nbsp;&nbsp;Developed by: [Eliott Palueau](https://github.com/EliottPal)  

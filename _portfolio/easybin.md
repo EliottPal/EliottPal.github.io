@@ -17,7 +17,7 @@ It uses a simple scanning system (similar to Yuka) that gives you all the requir
 The databse provides a basic set of items and every user can register new items to the database, that can later be scanned by other users.
 
 ### Overview:  
-- Date: March-April 2021
-- Category: Mobile Application
-- Languages: React Native (Expo), Ruby On Rails
-- Developed by: [Eliott Palueau](https://github.com/EliottPal) & [Rodolphe Dupuis](https://github.com/rodolphedps)
+&nbsp;&nbsp;&nbsp;&nbsp;Date: March-April 2021  
+&nbsp;&nbsp;&nbsp;&nbsp;Category: Mobile Application  
+&nbsp;&nbsp;&nbsp;&nbsp;Languages: React Native (Expo), Ruby On Rails  
+&nbsp;&nbsp;&nbsp;&nbsp;Developed by: [Eliott Palueau](https://github.com/EliottPal) & [Rodolphe Dupuis](https://github.com/rodolphedps)  
