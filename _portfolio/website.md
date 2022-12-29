@@ -1,7 +1,7 @@
 ---
 title: Personal website
 subtitle: The website you are looking at right now.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: ../../assets/img/portfolio/2.png
 link: https://github.com/EliottPal/easybin-hub
 
 caption: #what displays in the portfolio grid:

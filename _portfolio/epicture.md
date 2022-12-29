@@ -1,7 +1,7 @@
 ---
 title: Epicture
 subtitle: Mobile application implementing Imgur API.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: ../../assets/img/portfolio/4.png
 link: https://github.com/EliottPal/Epicture_2020
 
 caption: #what displays in the portfolio grid:

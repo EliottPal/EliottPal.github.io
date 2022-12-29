@@ -1,7 +1,7 @@
 ---
 title: Area
 subtitle: Software suite implementing Action -> Reaction features.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: ../../assets/img/portfolio/1.png
 link: https://github.com/EliottPal/Area
 
 caption: #what displays in the portfolio grid:

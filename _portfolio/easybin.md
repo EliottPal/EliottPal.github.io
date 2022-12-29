@@ -1,7 +1,7 @@
 ---
 title: EasyBin
 subtitle: Mobile application implementing barcode scanner.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: ../../assets/img/portfolio/5.png
 link: https://github.com/EliottPal/easybin-hub
 
 caption: #what displays in the portfolio grid:
