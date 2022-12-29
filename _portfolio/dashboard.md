@@ -13,15 +13,17 @@ caption: #what displays in the portfolio grid:
 Epitech project, 3rd year.  
 The **Dashboard** project consists in the creation of a web application.  
 This application is a customizable dashboard which integrates configurable widgets from different services.  
-The available services includes:
-- Youtube
-- Spotify
-- Github
-- Weather
-- Money conversion
+The available services includes:  
+&nbsp;&nbsp;&nbsp;&nbsp;Youtube  
+&nbsp;&nbsp;&nbsp;&nbsp;Spotify  
+&nbsp;&nbsp;&nbsp;&nbsp;Github  
+&nbsp;&nbsp;&nbsp;&nbsp;Weather  
+&nbsp;&nbsp;&nbsp;&nbsp;Money conversion  
 
 ### Overview:
-- Date: November-December 2020
-- Category: Web Application
-- Languages: ReactJS, NodeJS, MongoDb
-- Developed by: [Eliott Palueau](https://github.com/EliottPal) & [Rodolphe Dupuis](https://github.com/rodolphedps)
+&nbsp;&nbsp;&nbsp;&nbsp;Date: November-December 2020  
+&nbsp;&nbsp;&nbsp;&nbsp;Category: Web Application  
+&nbsp;&nbsp;&nbsp;&nbsp;Languages: ReactJS, NodeJS, MongoDb  
+&nbsp;&nbsp;&nbsp;&nbsp;Developed by: [Eliott Palueau](https://github.com/ EliottPal) & [Rodolphe Dupuis](https://github.com/rodolphedps)
+
+
