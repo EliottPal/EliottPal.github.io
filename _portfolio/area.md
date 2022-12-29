@@ -22,9 +22,9 @@ This software suite is a divided into 3 parts:
 &nbsp;&nbsp;&nbsp;&nbsp;Category: Web Application, Mobile Application, Web Server & API  
 &nbsp;&nbsp;&nbsp;&nbsp;Languages: VueJS (Typescript), NodeJS Express, MongoDb, Flutter  
 &nbsp;&nbsp;&nbsp;&nbsp;Developed by:  
-  - [Eliott Palueau](https://github.com/EliottPal)
-  - [Kylian Balan](https://github.com/Kilio22)
-  - [Nathan Lecorchet](https://github.com/HeyShafty)
-  - [Ghassane Sebaï](https://github.com/SuperZikoure) 
-  - [Rodolphe Dupuis](https://github.com/RodolpheDupuis)    
+&nbsp;&nbsp;&nbsp;&nbsp;[Eliott Palueau](https://github.com/EliottPal)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Kylian Balan](https://github.com/Kilio22)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Nathan Lecorchet](https://github.com/HeyShafty)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Ghassane Sebaï](https://github.com/SuperZikoure)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Rodolphe Dupuis](https://github.com/RodolpheDupuis)  
   
