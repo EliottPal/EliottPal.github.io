@@ -14,10 +14,10 @@ Epitech project, 3rd year.
 The **Epicture** project consists in the creation of a mobile application.  
 This application is an Imgur client so it’s built using the Imgur API (Imgur is a platform similar to Reddit used to share any kind of pictures).  
 The application is composed of multiple pages implementing different functionalities:  
-&nbsp;&nbsp;&nbsp;&nbsp;Profile page: user informations & posts uploaded by the user.  
-&nbsp;&nbsp;&nbsp;&nbsp;Upload page: take picture using gallery or camera & upload it to Imgur.  
-&nbsp;&nbsp;&nbsp;&nbsp;Browse page: see all the latest viral posts on Imgur, use the search bar to look for specific posts.  
-&nbsp;&nbsp;&nbsp;&nbsp;Favortites page: see all your favorites posts.  
+&nbsp;&nbsp;&nbsp;&nbsp;Profile page: user's informations & uploaded posts.  
+&nbsp;&nbsp;&nbsp;&nbsp;Upload page: upload image to Imgur using gallery or camera.  
+&nbsp;&nbsp;&nbsp;&nbsp;Browse page: latest viral posts on Imgur, search bar to look for specific posts.  
+&nbsp;&nbsp;&nbsp;&nbsp;Favortites page: user's favorites posts.  
 
 ### Overview:  
 &nbsp;&nbsp;&nbsp;&nbsp;Date: October 2020  
