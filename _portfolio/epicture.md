@@ -11,9 +11,12 @@ caption: #what displays in the portfolio grid:
 ---
 ### Details: 
 Epitech project, 3rd year.  
+
 The **Epicture** project consists in the creation of a mobile application.  
-This application is an Imgur client so it’s built using the Imgur API (Imgur is a platform similar to Reddit used to share any kind of pictures).  
-The application is composed of multiple pages implementing different functionalities:  
+This application is an Imgur client so it’s built using the Imgur API (Imgur is a platform similar to Reddit used to share any kind of pictures). 
+
+The application is composed of multiple pages implementing different functionalities: 
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;Profile page: user's informations & uploaded posts.  
 &nbsp;&nbsp;&nbsp;&nbsp;Upload page: upload image to Imgur using gallery or camera.  
 &nbsp;&nbsp;&nbsp;&nbsp;Browse page: latest viral posts on Imgur, search bar to look for specific posts.  

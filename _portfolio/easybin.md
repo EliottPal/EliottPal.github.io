@@ -11,7 +11,9 @@ caption: #what displays in the portfolio grid:
 ---
 ### Details: 
 Personal project.  
+
 **Easybin** is a mobile app aimed to facilitate the selective sorting of everyday products.
+
 It uses a simple scanning system (similar to Yuka) that gives you all the required information about the chosen product.  
 
 The databse provides a basic set of items and every user can register new items to the database, that can later be scanned by other users.

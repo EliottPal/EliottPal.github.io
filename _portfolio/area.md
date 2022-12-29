@@ -11,8 +11,11 @@ caption: #what displays in the portfolio grid:
 ---
 ### Details:  
 Epitech final project, 3rd year.  
+
 The **AREA** project consists in the creation of a software suite that functions similarly to IFTTT / Zapier / IOS Shortcuts.  
+
 This software suite is a divided into 3 parts:  
+
 &nbsp;&nbsp;&nbsp;&nbsp;A server to implement all the features.  
 &nbsp;&nbsp;&nbsp;&nbsp;A web application to use the app from a browser.  
 &nbsp;&nbsp;&nbsp;&nbsp;A mobile application to use the app from a phone.  

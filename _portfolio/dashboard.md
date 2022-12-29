@@ -11,9 +11,13 @@ caption: #what displays in the portfolio grid:
 ---
 ### Details: 
 Epitech project, 3rd year.  
+
 The **Dashboard** project consists in the creation of a web application.  
-This application is a customizable dashboard which integrates configurable widgets from different services.  
+
+This application is a customizable dashboard which integrates configurable widgets from different services. 
+
 The available services includes:  
+
 &nbsp;&nbsp;&nbsp;&nbsp;Youtube  
 &nbsp;&nbsp;&nbsp;&nbsp;Spotify  
 &nbsp;&nbsp;&nbsp;&nbsp;Github  

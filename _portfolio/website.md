@@ -11,6 +11,7 @@ caption: #what displays in the portfolio grid:
 ---
 ### Details: 
 Personal project.  
+
 Creation of my personal website using a customized template built with Gem.  
 Deployment of the website using Github Pages.
 
