@@ -80,7 +80,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/5.jpg
         alt:
         align: right
-    end: "<br/>What's next?"
+    end: "What's next?"
 
   skills:
     title: "Skills"
