@@ -27,28 +27,21 @@
                 alt="{{ project.alt }}"
               />
               <p>{{ project.content }}</p>
-              <div class="container">
-                <div class="row gx-3 justify-content-center">
-                  <div class="col-md-6">
-                    <a href="{{project.link}}" target="_blank">
-                      <button class="btn btn-primary" type="button">
-                        <i class="fas fa-external-link"></i>
-                        Check project on Github
-                      </button>
-                    </a>
-                  </div>
-                  <div class="col-md-6">
-                    <button
-                      class="btn btn-secondary"
-                      data-dismiss="modal"
-                      type="button"
-                    >
-                      <i class="fas fa-times"></i>
-                      Close project
-                    </button>
-                  </div>
-                </div>
-              </div>
+              <a href="{{project.link}}" target="_blank">
+                <button class="btn btn-primary" type="button">
+                  <i class="fas fa-external-link"></i>
+                  Check project on Github
+                </button>
+              </a>
+              <br />
+              <button
+                class="btn btn-secondary"
+                data-dismiss="modal"
+                type="button"
+              >
+                <i class="fas fa-times"></i>
+                Close project
+              </button>
             </div>
           </div>
         </div>
