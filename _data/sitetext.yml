@@ -36,7 +36,7 @@ en: &DEFAULT_EN
         category: "Studies:"
         year: "2018"
         desc: "Realization of numerous projects in various fields: graphic programming, mathematics, system programming, web/mobile development, algorithmic... "
-        languages: "Languages used (non exhaustive): C, C++, Javascript, Python"
+        languages: "Languages learned (non exhaustive): C, C++, Javascript, Python"
         image: assets/img/timeline/1.jpeg
         alt:
 
@@ -67,15 +67,15 @@ en: &DEFAULT_EN
       - title: "Started studying at <i>Royal Melbourne Institute of Technology</i>"
         category: "Studies:"
         year: "2022"
-        desc: "Study abroad student in Computer Science."
-        languages: "Languages used: Javascript, Php, MySQL"
+        desc: "Studying 2 semesters as an exchange student in Computer Science."
+        languages: "Languages learned: Php, MySQL"
         image: assets/img/timeline/4.png
         alt:
 
       - title: "Web developer (fulltime) - <i>Avon Research</i>"
         category: "Job:"
         year: "November 2022-Present"
-        desc: "Working on a mobile application for jewellery built using Shopify."
+        desc: "Working on a mobile application built using Shopify, aimed at vendors of jewellery stores."
         languages: "Languages used: ReactJs"
         image: assets/img/timeline/5.jpg
         alt:
