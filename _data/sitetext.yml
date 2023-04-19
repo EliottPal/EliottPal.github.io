@@ -143,6 +143,8 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://github.com/EliottPal/
         icon: "fab fa-github"
+      - url: https://www.malt.fr/profile/eliottpalueau
+        icon: "fab fa-github"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
