@@ -82,6 +82,21 @@ en: &DEFAULT_EN
         align: right
     end: "What's next?"
 
+  volunteering:
+    title: "Experience"
+    text: "My volunteering experience"
+    section: timeline
+    events:
+      - title: "Started studying at <i>Epitech Rennes</i>"
+        category: "Studies:"
+        year: "2018"
+        desc: "Realization of numerous projects in various fields: graphic programming, mathematics, system programming, web/mobile development, algorithmic... "
+        languages: "Languages learned (non exhaustive): C, C++, Javascript, Python"
+        image: assets/img/timeline/1.jpeg
+        alt:
+
+    end: "What's next?"
+
   skills:
     title: "Skills"
     text: "Here is a non-exhaustive list of my core skills and some skills that I want to improve."
@@ -108,6 +123,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contact me"
     text: "Want to contact me for a project? Feel free!"
+    sub-text: "You can also check my Malt profile below."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
