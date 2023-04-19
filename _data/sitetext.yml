@@ -144,7 +144,7 @@ en: &DEFAULT_EN
       - url: https://github.com/EliottPal/
         icon: "fab fa-github"
       - url: https://www.malt.fr/profile/eliottpalueau
-        icon: "fa-regular fa-briefcase"
+        icon: "fa-solid fa-m"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
