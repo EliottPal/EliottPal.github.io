@@ -68,7 +68,7 @@ en: &DEFAULT_EN
         category: "Studies:"
         year: "July 2022 - May 2023"
         desc: "Studying 2 semesters as an exchange student in Computer Science."
-        languages: "Languages learned: Php, MySQL"
+        languages: "Languages learned: Php, MySQL, Java"
         image: assets/img/timeline/4.png
         alt:
 
@@ -76,7 +76,7 @@ en: &DEFAULT_EN
         category: "Job:"
         year: "November 2022 - August 2023"
         desc: "Working on a mobile application built using Shopify, aimed at vendors of jewellery stores."
-        languages: "Languages used: ReactJs"
+        languages: "Languages used: ReactJs, Typescript, Shopify, HTML, CSS"
         image: assets/img/timeline/6.jpeg
         alt:
         align: right
