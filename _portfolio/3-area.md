@@ -3,7 +3,7 @@ title: Area
 subtitle: Software suite implementing Action -> Reaction features.
 image: ../../assets/img/portfolio/1.png
 link: https://github.com/EliottPal/Area
-button-link: Check project on Github
+button-text: Check project on Github
 
 caption: #what displays in the portfolio grid:
   title: Area

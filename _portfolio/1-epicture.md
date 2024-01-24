@@ -3,7 +3,7 @@ title: Epicture
 subtitle: Mobile application implementing Imgur API.
 image: ../../assets/img/portfolio/4.png
 link: https://github.com/EliottPal/Epicture_2020
-button-link: Check project on Github
+button-text: Check project on Github
 
 caption: #what displays in the portfolio grid:
   title: Epicture

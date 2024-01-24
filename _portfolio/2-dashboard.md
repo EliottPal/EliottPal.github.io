@@ -3,7 +3,7 @@ title: Dashboard
 subtitle: Web dashboard fully customizable with widgets.
 image: ../../assets/img/portfolio/3.png
 link: https://github.com/EliottPal/Dashboard_2020
-button-link: Check project on Github
+button-text: Check project on Github
 
 caption: #what displays in the portfolio grid:
   title: Dashboard
