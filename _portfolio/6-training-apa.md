@@ -8,7 +8,7 @@ button-text: Check webiste online
 caption: #what displays in the portfolio grid:
   title: Training-APA website
   subtitle: Website for the Training APA company.
-  thumbnail: ../../assets/img/portfolio/2.png
+  thumbnail: ../../assets/img/portfolio/6.png
 ---
 ### Details: 
 Freelance project.  
