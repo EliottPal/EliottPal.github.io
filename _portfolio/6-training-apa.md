@@ -3,7 +3,7 @@ title: Training APA website
 subtitle: Website for the Training APA company.
 image: ../../assets/img/portfolio/6.png
 link: https://training-apa.fr
-button-text: Check webiste online
+button-text: Check website online
 
 caption: #what displays in the portfolio grid:
   title: Training-APA website
